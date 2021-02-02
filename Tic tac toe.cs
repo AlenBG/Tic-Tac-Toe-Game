@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Tic_tak_toe
+namespace Game
 {
     class Program
     {
